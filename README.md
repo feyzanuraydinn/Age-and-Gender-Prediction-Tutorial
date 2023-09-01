@@ -13,7 +13,7 @@ Install required libraries using pip:
 pip install -r requirements.txt
 ```
 
-Download the [age_net.caffemodel](https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0) and [gender_net.caffemodel](https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0) and make sure they has the same directory as your project.
+Download the [age_net.caffemodel](https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0) and [gender_net.caffemodel](https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0) files, and ensure that they are located in the same directory as your project.
 
 ## Execution
 
